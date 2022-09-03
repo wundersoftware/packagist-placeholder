@@ -1,0 +1,10 @@
+{
+    "name": "wundersoftware/packagist-placeholder",
+    "authors": [
+        {
+            "name": "Max Heyer",
+            "email": "hello@wunder.software"
+        }
+    ],
+    "require": {}
+}
